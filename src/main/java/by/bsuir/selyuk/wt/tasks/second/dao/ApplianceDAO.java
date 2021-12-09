@@ -15,7 +15,7 @@ public interface ApplianceDAO {
     /**
      * Finds all {@link Appliance} that match the given criteria.
      *
-     * @param criteria {@link by/bsuir/dshparko/wt/tasks/second/entity/criteria/SearchCriteria.java} with which sorting occurs
+     * @param criteria {@link by/bsuir/selyuk/wt/tasks/second/entity/criteria/SearchCriteria.java} with which sorting occurs
      * @return {@link List<Appliance>}  list of appliances found
      * @throws DAOException when throwing an exception on a DAO layer
      */

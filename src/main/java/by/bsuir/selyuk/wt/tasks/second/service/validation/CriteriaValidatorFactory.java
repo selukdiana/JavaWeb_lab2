@@ -2,7 +2,7 @@ package by.bsuir.selyuk.wt.tasks.second.service.validation;
 
 import by.bsuir.selyuk.wt.tasks.second.entity.criteria.SearchCriteria;
 import by.bsuir.selyuk.wt.tasks.second.service.constant.ServiceExceptionMessage;
-import by.bsuir.dshparko.wt.tasks.second.service.validation.impl.*;
+import by.bsuir.selyuk.wt.tasks.second.service.validation.impl.*;
 
 import java.util.HashMap;
 import java.util.Map;

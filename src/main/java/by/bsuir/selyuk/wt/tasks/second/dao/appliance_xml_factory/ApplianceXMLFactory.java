@@ -38,11 +38,11 @@ public abstract class ApplianceXMLFactory {
         return node;
     }
     /**
-     * Gets the {@link \Users\Lenovo\OneDrive - bsuir.by\Рабочий стол\wt2\src\main\java\by\bsuir\dshparko\wt\tasks\second\dao\creator\ApplianceCreator.java} from its applianceName.
+     * Gets the {@link \Users\Lenovo\OneDrive - bsuir.by\Рабочий стол\wt2\src\main\java\by\bsuir\selyuk\wt\tasks\second\dao\creator\ApplianceCreator.java} from its applianceName.
      * If an error occurs, an {@link IllegalArgumentException} is thrown.
      *
      * @param applianceName name of appliance
-     * @return {@link \Users\Lenovo\OneDrive - bsuir.by\Рабочий стол\wt2\src\main\java\by\bsuir\dshparko\wt\tasks\second\dao\creator\ApplianceCreator.java}
+     * @return {@link \Users\Lenovo\OneDrive - bsuir.by\Рабочий стол\wt2\src\main\java\by\bsuir\selyuk\wt\tasks\second\dao\creator\ApplianceCreator.java}
      */
     public static ApplianceXMLFactory getApplianceXMLFactory(String applianceName) throws EnumConstantNotPresentException {
         try {

@@ -13,7 +13,7 @@ import by.bsuir.selyuk.wt.tasks.second.service.validation.Validator;
 import java.util.List;
 /**
  * ApplianceServiceImpl class.
- * Implements {@link ApplianceService} and works with {@link by/bsuir/dshparko/wt/tasks/second/dao/ApplianceDAO.java}.
+ * Implements {@link ApplianceService} and works with {@link by/bsuir/selyuk/wt/tasks/second/dao/ApplianceDAO.java}.
  *
  * @author Darya Shparko
  * @version 1.0

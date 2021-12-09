@@ -8,7 +8,7 @@ package by.bsuir.selyuk.wt.tasks.second.service.validation;
 public interface CriteriaValidator {
 
     /**
-     * Validate value of {@link by/bsuir/dshparko/wt/tasks/second/entity/criteria/SearchCriteria.java}
+     * Validate value of {@link by/bsuir/selyuk/wt/tasks/second/entity/criteria/SearchCriteria.java}
      * In the implementation of this method, an exception is not thrown if the data is invalid,
      * but return false, since it is more convenient to process boolean in {@link Validator} with a lambda expression.
      *

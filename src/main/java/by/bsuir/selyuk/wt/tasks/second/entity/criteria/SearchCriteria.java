@@ -14,25 +14,25 @@ public final class SearchCriteria {
         NAME
     }
     /**
-     * Contains {@link by/bsuir/dshparko/wt/tasks/second/entity/Oven.java} search criteria
+     * Contains {@link by/bsuir/selyuk/wt/tasks/second/entity/Oven.java} search criteria
      */
     public enum Oven {
         PRICE, POWER_CONSUMPTION, WEIGHT, CAPACITY, DEPTH, HEIGHT, WIDTH
     }
     /**
-     * Contains {@link by/bsuir/dshparko/wt/tasks/second/entity/Laptop.java} search criteria
+     * Contains {@link by/bsuir/selyuk/wt/tasks/second/entity/Laptop.java} search criteria
      */
     public enum Laptop {
         PRICE, BATTERY_CAPACITY, OS, MEMORY_ROM, CPU, DISPLAY_INCHES
     }
     /**
-     * Contains {@link by/bsuir/dshparko/wt/tasks/second/entity/TabletPC.java} search criteria
+     * Contains {@link by/bsuir/selyuk/wt/tasks/second/entity/TabletPC.java} search criteria
      */
     public enum TabletPC {
         PRICE, BATTERY_CAPACITY, DISPLAY_INCHES, MEMORY_ROM, FLASH_MEMORY_CAPACITY, COLOR
     }
     /**
-     * Contains {@link by/bsuir/dshparko/wt/tasks/second/entity/Freezer.java} search criteria
+     * Contains {@link by/bsuir/selyuk/wt/tasks/second/entity/Freezer.java} search criteria
      */
     public enum Freezer {
         PRICE, FREEZER_CAPACITY, DEPTH, HEIGHT, WIDTH

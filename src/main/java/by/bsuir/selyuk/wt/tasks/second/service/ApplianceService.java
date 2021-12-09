@@ -14,9 +14,9 @@ import java.util.List;
 public interface ApplianceService {
 
     /**
-     * Validates {@link by/bsuir/dshparko/wt/tasks/second/entity/criteria/SearchCriteria.java} and finds all {@link Appliance} that match the given search criteria.
+     * Validates {@link by/bsuir/selyuk/wt/tasks/second/entity/criteria/SearchCriteria.java} and finds all {@link Appliance} that match the given search criteria.
      *
-     * @param criteria {@link by/bsuir/dshparko/wt/tasks/second/entity/criteria/SearchCriteria.java} with which sorting occurs
+     * @param criteria {@link by/bsuir/selyuk/wt/tasks/second/entity/criteria/SearchCriteria.java} with which sorting occurs
      * @return {@link List<Appliance>}  list of {@link Appliance} found
      * @throws DAOException     when throwing an exception on a DAO layer
      * @throws ServiceException when throwing an exception on a Service layer

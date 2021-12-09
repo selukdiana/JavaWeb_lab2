@@ -10,7 +10,7 @@ import by.bsuir.selyuk.wt.tasks.second.entity.criteria.Criteria;
 public class Validator {
 
     /**
-     * Validates criteria by its {@link by/bsuir/dshparko/wt/tasks/second/entity/criteria/SearchCriteria.java}.
+     * Validates criteria by its {@link by/bsuir/selyuk/wt/tasks/second/entity/criteria/SearchCriteria.java}.
      *
      * @param criteria {@link Criteria} to validate
      * @return true if criteria is valid. Otherwise, false.
